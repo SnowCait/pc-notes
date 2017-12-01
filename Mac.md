@@ -1,6 +1,7 @@
 # Mac構築
 
 ## 開発
+* Git
 * Visual Studio Code
 * Visual Studio for Mac
 * Xamarin
