@@ -1,5 +1,8 @@
 # Mac構築
 
+# 設定
+* ライブ変換OFF
+
 ## 開発
 * Git
 * Visual Studio Code
