@@ -5,6 +5,7 @@
 
 ## 開発
 * Git
+* Homebrew
 * Visual Studio Code
 * Visual Studio for Mac
 * Xamarin
