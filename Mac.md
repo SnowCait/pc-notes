@@ -2,6 +2,7 @@
 
 ## 設定
 * ライブ変換OFF
+* Functionキー
 
 ## 開発
 * Git
