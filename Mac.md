@@ -15,7 +15,6 @@
 * Xcode
 
 ## その他
-* Twitter
-* Tweetbot
+* Twitter, Tweetbot
 * Chrome
 * OneDrive
