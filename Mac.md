@@ -11,7 +11,7 @@
 * GitHub Desktop `brew cask install github`
 * Homebrew
 * Visual Studio Code
-  * `code`コマンド `Shift + Command + p` > `shell`
+  * codeコマンド `Shift + Command + p` > `shell`
 * Visual Studio for Mac
 * Xamarin
 * Unity
