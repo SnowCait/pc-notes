@@ -23,3 +23,5 @@
 * Chrome
 * OneDrive
 * Slack
+* Discord
+* ChatWork
