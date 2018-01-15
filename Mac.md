@@ -6,6 +6,7 @@
 
 ## 開発
 * Git
+  * `git config --global user.useConfigOnly true`
 * GitHub Desktop `brew cask install github`
 * Homebrew
 * Visual Studio Code
