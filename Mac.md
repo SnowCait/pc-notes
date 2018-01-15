@@ -6,6 +6,7 @@
 
 ## 開発
 * Git
+* GitHub Desktop `brew cask install github`
 * Homebrew
 * Visual Studio Code
 * Visual Studio for Mac
