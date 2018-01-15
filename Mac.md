@@ -17,6 +17,7 @@
 * Xcode
 
 ## その他
-* Twitter, Tweetbot
+* Twitter, TweetDeck, Tweetbot
 * Chrome
 * OneDrive
+* Slack
