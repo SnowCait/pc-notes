@@ -9,7 +9,7 @@
   * git graph
   * user.name, user.email `git config --global user.useConfigOnly true`
 * GitHub Desktop `brew cask install github`
-* Homebrew
+* Homebrew `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * Visual Studio Code
   * codeコマンド `Shift + Command + p` `shell`
 * Visual Studio for Mac
