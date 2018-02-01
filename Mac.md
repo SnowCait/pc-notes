@@ -17,6 +17,7 @@
 * Unity
 * Android Studio
 * Xcode
+* MySQL `brew install mysql`
 
 ## その他
 * Twitter, TweetDeck, Tweetbot
