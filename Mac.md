@@ -18,6 +18,7 @@
 * Android Studio
 * Xcode
 * MySQL `brew install mysql`
+* Node.js
 
 ## その他
 * Twitter, TweetDeck, Tweetbot
