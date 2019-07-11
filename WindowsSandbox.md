@@ -3,6 +3,10 @@
 ## 要件
 Windows 10 Pro 1903
 
+## 有効化
+`Win + R` > `optionalfeatures` > `Windows サンドボックス`  
+OS 再起動は不要
+
 ## 設定ファイル
 `*.wsb`
 - 仮想化GPU（vGPU）のON/OFF
