@@ -20,6 +20,7 @@
 * Xcode
 * MySQL `brew install mysql`
 * Node.js
+* Packer `brew install packer`
 
 ## その他
 * Twitter, TweetDeck, Tweetbot
