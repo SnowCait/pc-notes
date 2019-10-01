@@ -29,3 +29,4 @@
 * Slack
 * Discord
 * ChatWork
+* [Intel® Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
