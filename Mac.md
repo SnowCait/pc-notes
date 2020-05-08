@@ -4,6 +4,9 @@
 * ライブ変換OFF
 * Functionキー
 * キーボード: 半角カタカナ
+* 隠しファイル
+  * [【Mac】隠しファイル・隠しフォルダを表示する方法 - Qiita](https://qiita.com/TsukasaHasegawa/items/fa8e783a556dc1a08f51)
+    * `Command + Shift + .`
 
 ## 開発
 * Git
