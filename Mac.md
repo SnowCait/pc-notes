@@ -34,3 +34,6 @@
 * Discord
 * ChatWork
 * [Intel® Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
+
+## Tips
+* [Shell コマンドで Mac の物理コアと論理コアの数を確認する方法 - yu8mada](https://yu8mada.com/2018/09/22/how-to-check-the-numbers-of-the-physical-and-logical-cores-of-a-mac-using-shell-commands/)
