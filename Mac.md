@@ -37,3 +37,6 @@
 
 ## Tips
 * [Shell コマンドで Mac の物理コアと論理コアの数を確認する方法 - yu8mada](https://yu8mada.com/2018/09/22/how-to-check-the-numbers-of-the-physical-and-logical-cores-of-a-mac-using-shell-commands/)
+
+## Trouble Shooting
+* [Fix macOS Hanging Issue](https://gist.github.com/nathanhleung/2ceeda4c743f2a1cf3d670c8b90445f6)
