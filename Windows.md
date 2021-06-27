@@ -1,5 +1,10 @@
 # Windows
 
+## Hardware spec
+- CPU i7
+- Memory 32GB
+- SSD 1TB
+
 ## 開発
 - [Chocolatey](https://chocolatey.org/) - Command is [here](WindowsSetup.Admin.ps1#L1)
 - [Windows Terminal](https://www.microsoft.com/ja-jp/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
