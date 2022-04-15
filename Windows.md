@@ -20,3 +20,6 @@
 ## アカウント
 - [Windowsのサービスで使用される「System」「Local Service」「Network Service」アカウントとは？：Tech TIPS - ＠IT](https://www.atmarkit.co.jp/ait/articles/0905/08/news095.html)
 - [LocalSystem ユーザだと net use が使えない？そんなことはない - pudding - diary(2012-11-24)](http://moriya.xrea.jp/tdiary/20121124.html)
+
+## Windows Update
+- [Windows 10 - Windows Update に失敗する場合の対処法 - Microsoft コミュニティ](https://answers.microsoft.com/ja-jp/windows/forum/windows_10-update/windows-10-windows-update/a8a3a4cb-9d67-406e-8ae6-d25451c237d7)
