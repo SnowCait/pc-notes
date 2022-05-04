@@ -23,3 +23,18 @@
 
 ## Windows Update
 - [Windows 10 - Windows Update に失敗する場合の対処法 - Microsoft コミュニティ](https://answers.microsoft.com/ja-jp/windows/forum/windows_10-update/windows-10-windows-update/a8a3a4cb-9d67-406e-8ae6-d25451c237d7)
+
+## クリーンインストール
+
+```
+エディション: Windows 10 Pro
+バージョン: 1909
+インストール日: 2019/07/11
+OS ビルド: 18363.1556
+```
+
+設定 > 更新とセキュリティ > 回復 > その他の回復オプション
+![image](https://user-images.githubusercontent.com/1297512/166669962-6658e9d1-20a0-498e-bfc5-05322ac2472c.png)
+
+開始する
+![image](https://user-images.githubusercontent.com/1297512/166669983-31181323-a31b-4202-808d-4c083cce18a3.png)
