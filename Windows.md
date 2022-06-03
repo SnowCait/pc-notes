@@ -2,7 +2,7 @@
 
 ## Hardware spec
 - CPU i7
-- Memory 32GB
+- Memory 32-64GB
 - SSD 1TB
 
 ## 開発
