@@ -38,5 +38,10 @@
 ## Tips
 * [Shell コマンドで Mac の物理コアと論理コアの数を確認する方法 - yu8mada](https://yu8mada.com/2018/09/22/how-to-check-the-numbers-of-the-physical-and-logical-cores-of-a-mac-using-shell-commands/)
 
+## Hardware
+
+- [M3 Proに勝利。いまだに最強クラスのM1 Mac mini｜Piyomaru](https://note.com/140software/n/nc115df0d1779)
+- [Apple M3 8 Core vs Apple M2 8 Core 3500 MHz [cpubenchmark.net] by PassMark Software](https://www.cpubenchmark.net/compare/5749vs4922/Apple-M3-8-Core-vs-Apple-M2-8-Core-3500-MHz)
+
 ## Trouble Shooting
 * [Fix macOS Hanging Issue](https://gist.github.com/nathanhleung/2ceeda4c743f2a1cf3d670c8b90445f6)
